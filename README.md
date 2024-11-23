@@ -1,6 +1,6 @@
-# Weex-Twitter
+# Web3 Exchange Twitter Crawler 爬虫程序
 
-使用 Python 编写的爬虫，自动搜索 Weex 在 Twitter 上的相关内容并搜集数据。
+使用 Python 编写的爬虫，自动搜索web3交易所在Twitter 上的相关内容并搜集数据。
 
 ## 功能简介
 
