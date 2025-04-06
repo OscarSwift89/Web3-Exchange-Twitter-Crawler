@@ -32,3 +32,5 @@ def login(driver, username, password):
     # 等待页面加载
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//input[@data-testid="SearchBox_Search_Input"]')))
     print("Logged in successfully.")
+
+#测试
